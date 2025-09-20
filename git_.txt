@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello world Андрій шлюха ',fyf'
-=======
-hello world mjaster yoda pidaras
->>>>>>> new_br
+
+hello world mjaster yoda pidaras shlyuha
